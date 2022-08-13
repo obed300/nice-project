@@ -12,6 +12,12 @@
     /* margin: 0; 
     padding: 0; */
 }
+
+#about {
+    height: 100vh;
+    background-color: #444;
+}
+
 #navbar{
     height: 80px;
     background-color: brown;
