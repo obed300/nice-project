@@ -1,7 +1,7 @@
 *{
     padding-right: 5px;
 }
-#nav{
+.nav{
     display: flex;
     justify-content: flex-end;
     position: fixed;
